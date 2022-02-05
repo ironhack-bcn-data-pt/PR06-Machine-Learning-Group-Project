@@ -1,4 +1,10 @@
-# PR06-Machine-Learning-Group-Project
+# PR06-Fifa_Regression 
+
+## Collaborators:
+- Gerard
+- Adriana
+- Akram
+
 Group Project Machine Learning Module 3 - Data Part Time Barcelona
 
 ## Context

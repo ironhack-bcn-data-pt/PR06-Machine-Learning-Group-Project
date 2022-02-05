@@ -1,6 +1,6 @@
 # PR06-Fifa_Regression 
 
-## Collaborators:
+## Collaborators :
 - Gerard
 - Adriana
 - Akram

@@ -21,7 +21,7 @@ The datasets provided include the players data for the Career Mode from FIFA 15 
 * Player attributes with statistics as Attacking, Skills, Defense, Mentality, GK Skills, etc.
 * Player personal data like Nationality, Club, DateOfBirth, Wage, Salary, etc.
 
-## Groups
+## Group
 
 - Kseniya Voronkova
 - Gerard Domenec
@@ -31,7 +31,9 @@ The datasets provided include the players data for the Career Mode from FIFA 15 
 ## Objective
 
 ### Regression
+Find overpaid and underpaid players for each team
 ### Clustering
+Identify different groups with similar qualities
 
 ## Checkpoints:
 

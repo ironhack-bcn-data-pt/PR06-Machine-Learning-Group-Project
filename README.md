@@ -24,7 +24,7 @@ The datasets provided include the players data for the Career Mode from FIFA 15 
 ## Group
 
 - Kseniya Voronkova
-- Gerard Domenec
+- Gerard Domenech
 - Adriana J.Ambel
 - Akram Tamimi 
 

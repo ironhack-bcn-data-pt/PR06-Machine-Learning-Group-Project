@@ -35,6 +35,16 @@ Find overpaid and underpaid players for each team
 ### Clustering
 Identify different groups with similar qualities
 
+## Tools
+
+- Python
+- Jupyter Notebook
+- PowerPoint
+- Sklearn
+- Seaborn
+- Matplotlib
+- Pandas
+
 ## Checkpoints:
 
 * Week 0.- Groups - Repo - Organisation

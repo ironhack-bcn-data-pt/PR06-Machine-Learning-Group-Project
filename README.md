@@ -23,32 +23,15 @@ The datasets provided include the players data for the Career Mode from FIFA 15 
 
 ## Groups
 
-### Group 1
-- Sergio
-- Natália
-- Víctor
-
-### Group 2
-- Carlos
-- Kseniya
-- Néstor
-
-### Group 3
-- Gerard
-- Adriana
-- Akram
+- Kseniya Voronkova
+- Gerard Domenec
+- Adriana J.Ambel
+- Akram Tamimi 
 
 ## Objective
 
 ### Regression
-Group 3
-
-### Clasification
-Group 2
-
 ### Clustering
-Group 1
-
 
 ## Checkpoints:
 
@@ -57,12 +40,6 @@ Group 1
 * Week 2.- Feature Engineering
 * Week 3.- Modeling
 * Week 4.- Optimisation & Presentation
-
-## Last year projects (for reference)
-- https://github.com/julrods/project-ml-onlineshop/
-- https://github.com/xabstep/project-ml-show-noshow/
-- https://github.com/borjatv/project-ml-bank-churn/
-
 
 
 

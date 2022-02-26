@@ -1,5 +1,4 @@
-# PR06-Machine-Learning-Group-Project                           ![jpg](https://user-images.githubusercontent.com/87583331/155837921-62dea418-ac17-414f-808c-fc184d6e392d.jpg)
-
+# PR06-Machine-Learning-Group-Project                           
 Group Project Machine Learning Module 3 - Data Part Time Barcelona
 
 ## Context
@@ -54,6 +53,7 @@ Identify different groups with similar qualities
 * Week 3.- Modeling
 * Week 4.- Optimisation & Presentation
 
+![jpg](https://user-images.githubusercontent.com/87583331/155837921-62dea418-ac17-414f-808c-fc184d6e392d.jpg)
 
 
 

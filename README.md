@@ -1,11 +1,4 @@
-# PR06-Fifa_Regression 
 
-## Collaborators :
-- Gerard
-- Adriana
-- Akram
-
-Group Project Machine Learning Module 3 - Data Part Time Barcelona
 
 ## Context
 
@@ -27,34 +20,29 @@ The datasets provided include the players data for the Career Mode from FIFA 15 
 * Player attributes with statistics as Attacking, Skills, Defense, Mentality, GK Skills, etc.
 * Player personal data like Nationality, Club, DateOfBirth, Wage, Salary, etc.
 
-## Groups
+## Group
 
-### Group 1
-- Sergio
-- Natália
-- Víctor
-
-### Group 2
-- Carlos
-- Kseniya
-- Néstor
-
-### Group 3
-- Gerard
-- Adriana
-- Akram
+- Kseniya Voronkova
+- Gerard Domenech
+- Adriana J.Ambel
+- Akram Tamimi 
 
 ## Objective
 
 ### Regression
-Group 3
-
-### Clasification
-Group 2
-
+Find overpaid and underpaid players for each team
 ### Clustering
-Group 1
+Identify different groups with similar qualities
 
+## Tools
+
+- Python
+- Jupyter Notebook
+- PowerPoint
+- Sklearn
+- Seaborn
+- Matplotlib
+- Pandas
 
 ## Checkpoints:
 
@@ -63,14 +51,6 @@ Group 1
 * Week 2.- Feature Engineering
 * Week 3.- Modeling
 * Week 4.- Optimisation & Presentation
-
-## Last year projects (for reference)
-- https://github.com/julrods/project-ml-onlineshop/
-- https://github.com/xabstep/project-ml-show-noshow/
-- https://github.com/borjatv/project-ml-bank-churn/
-
-
-
 
 
 

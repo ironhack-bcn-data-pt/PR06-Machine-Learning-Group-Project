@@ -53,7 +53,7 @@ Identify different groups with similar qualities
 * Week 3.- Modeling
 * Week 4.- Optimisation & Presentation
 
-![Image Text](PR06-Machine-Learning-Group-Project/pogba.jpg)
+![Image Text](GerardDD/PR06-Machine-Learning-Group-Project/pogba.jpg)
 
 
 
